@@ -1,0 +1,30 @@
+10. El responsable de Raúl, Pedro, ha enviado este mensaje a RRHH:
+
+Se debe ascender inmediatamente a Raúl. Es necesario mejorarle sus condiciones 
+económicas un 20% para que se quede con nosotros.
+
+Lo acompaña del siguiente fichero de firma PGP (MensajeRespoDeRaulARRHH.txt.sig). 
+Nosotros, que pertenecemos a RRHH vamos al directorio a recuperar la clave para 
+verificarlo. Tendremos los ficheros Pedro-priv.txt y Pedro-publ.txt, con las claves privada y 
+pública.
+
+Las claves de los ficheros de RRHH son RRHH-priv.txt y RRHH-publ.txt que también se 
+tendrán disponibles.
+
+Se requiere verificar la misma, y evidenciar dicha prueba. 
+
+
+
+
+Así mismo, se requiere firmar el siguiente mensaje con la clave correspondiente de las 
+anteriores, simulando que eres personal de RRHH.
+
+Viendo su perfil en el mercado, hemos decidido ascenderle y mejorarle un 25% su 
+salario. Saludos.
+
+Por último, cifra el siguiente mensaje tanto con la clave pública de RRHH como la de Pedro y 
+adjunta el fichero con la práctica.
+
+
+Estamos todos de acuerdo, el ascenso será el mes que viene, agosto, si no hay 
+sorpresas.
